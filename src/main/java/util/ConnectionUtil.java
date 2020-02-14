@@ -16,8 +16,8 @@ public class ConnectionUtil {
 	 */	
 		
 		String url = "jdbc:postgresql://database-1.cwr1aa0nfzpu.us-east-1.rds.amazonaws.com:5432/postgres";
-		String user = "antox7";
-		String password = "717Bobirsalim";
+		String user = "abc";
+		String password = "abc";
 		
 		try {
 //			 System.out.println("Trying to connect to the database...");
